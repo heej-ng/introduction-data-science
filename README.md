@@ -7,7 +7,7 @@ Introduction to Data Science 데이터과학기초
 
 - kaggle data 가시화
 - colab
-- 
+
 ### [colab link](https://colab.research.google.com/drive/1ndlp_n2H9GaIKA_P0h1RdZyz4g6OWYN2#scrollTo=ubUcsikST6kD)
 
 <br>
